@@ -1,2 +1,1 @@
-# wilgotenk-Comparison-of-Machine-Learning-Algorithms-for-Song-Classification-on-Spotify
-wilgotenk/Comparison-of-Machine-Learning-Algorithms-for-Song-Classification-on-Spotify
+Komparasi Algoritma Machine Learning untuk Klasifikasi Musik di Spotify berdasarkan Melodi lagu
